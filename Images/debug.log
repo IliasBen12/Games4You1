@@ -1,0 +1,3 @@
+[1030/235028.205:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1031/000204.399:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1031/000204.804:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
